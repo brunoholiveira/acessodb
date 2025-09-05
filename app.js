@@ -1,1 +1,3 @@
-import database from './config/db.js';
+import consulta from './consultadb.js';
+
+consulta.conexao

@@ -12,4 +12,4 @@ const conecta = createConnection({
 //    console.log("Conectado ao banco de dados!");
 //});
 
-export default conecta;
+export default {conecta};
